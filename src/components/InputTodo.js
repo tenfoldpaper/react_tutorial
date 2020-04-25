@@ -9,7 +9,6 @@ class InputTodo extends Component{
     title: ""
   };
   onChange = (e) => {
-    console.log("hello ", e);
     this.setState({
       // so long as name of the input tag matches
       // the state variables, this will expand
@@ -19,7 +18,6 @@ class InputTodo extends Component{
   };
   handleSubmit = e => {
     e.preventDefault(); // suppress page reload
-    console.log(this.state.title);
     this.props.addTodoProps(this.state.title);
     this.setState({
       title: ""
@@ -36,7 +34,7 @@ class InputTodo extends Component{
           placeholder = "Add Todo..." 
           value={this.state.title} 
           onChange={this.onChange}/>
-        <input type="submit" value="Submit" />
+        <input type="submit" className="input-submit" value="Submit" />
       </form>
     )
   }
