@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tenfoldpaper/react_tutorial/static/css/main.56df6992.chunk.css",
+    "main.js": "/tenfoldpaper/react_tutorial/static/js/main.1fcec617.chunk.js",
+    "main.js.map": "/tenfoldpaper/react_tutorial/static/js/main.1fcec617.chunk.js.map",
+    "runtime-main.js": "/tenfoldpaper/react_tutorial/static/js/runtime-main.89c56e20.js",
+    "runtime-main.js.map": "/tenfoldpaper/react_tutorial/static/js/runtime-main.89c56e20.js.map",
+    "static/js/2.17ff2cb9.chunk.js": "/tenfoldpaper/react_tutorial/static/js/2.17ff2cb9.chunk.js",
+    "static/js/2.17ff2cb9.chunk.js.map": "/tenfoldpaper/react_tutorial/static/js/2.17ff2cb9.chunk.js.map",
+    "index.html": "/tenfoldpaper/react_tutorial/index.html",
+    "precache-manifest.0985ae5cae35478d150fcddd67937af0.js": "/tenfoldpaper/react_tutorial/precache-manifest.0985ae5cae35478d150fcddd67937af0.js",
+    "service-worker.js": "/tenfoldpaper/react_tutorial/service-worker.js",
+    "static/css/main.56df6992.chunk.css.map": "/tenfoldpaper/react_tutorial/static/css/main.56df6992.chunk.css.map",
+    "static/js/2.17ff2cb9.chunk.js.LICENSE.txt": "/tenfoldpaper/react_tutorial/static/js/2.17ff2cb9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89c56e20.js",
+    "static/js/2.17ff2cb9.chunk.js",
+    "static/css/main.56df6992.chunk.css",
+    "static/js/main.1fcec617.chunk.js"
+  ]
+}
